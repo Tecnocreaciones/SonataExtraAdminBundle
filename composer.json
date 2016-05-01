@@ -1,5 +1,5 @@
 {
-    "name": "picoss/sonata-extra-admin-bundle",
+    "name": "tecnocreaciones/sonata-extra-admin-bundle",
     "type": "symfony-bundle",
     "description": "Sonata Extra admin features",
     "keywords": ["admin","sonata"],
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.0",
         "symfony/framework-bundle": ">=2.1",
-        "sonata-project/admin-bundle": "~2.3@dev"
+        "sonata-project/admin-bundle": "~2.3@dev || 3.x-dev"
     },
     "require-dev": {
         "gedmo/doctrine-extensions": ">=2.2"
